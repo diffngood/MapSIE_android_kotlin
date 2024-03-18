@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/theme_btn"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_margin="10dp"
+    android:background="@drawable/btn_background"
+    android:elevation="10dp">
+
+    <ImageView
+        android:id="@+id/theme_img"
+        android:layout_width="50dp"
+        android:layout_height="50dp" />
+
+    <TextView
+        android:id="@+id/theme_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="테마제목"
+        android:fontFamily="@font/gmarketsansmedium"
+        android:textColor="@color/white"
+        android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+
+</LinearLayout>
+<!--리사이클러뷰 아이템 xml-->

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MapActivity"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <fragment
+            android:id="@+id/map_fragment"
+            android:name="com.naver.maps.map.MapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <Button
+            android:id="@+id/themaDetailListButton"
+            android:layout_width="160dp"
+            android:layout_height="43dp"
+            android:text="List"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:layout_gravity="top|center_horizontal"
+            android:background="@drawable/btn_background"
+            android:textColor="@color/white"
+            android:layout_marginTop="10dp"/>
+    </FrameLayout>
+
+
+</LinearLayout>
