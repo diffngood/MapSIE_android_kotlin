@@ -13,12 +13,24 @@
    -  데이터베이스: Firebase 
    -  API        : Naver
  
-</br>
-
-</br>
-
 <hr>
+</br>
 
 <p>
   <img src="https://github.com/diffngood/MapSIE_android_kotlin/assets/103239379/7b943cfd-c7e9-4bd4-be5e-bcf2e326b0a3">
 </p>
+<hr>
+</br>
+
+## 👥 Member 👥
+<h4>🧑 김원빈</h4>
+<h4>👧 김현진</h4>
+<h4>👧 박희경</h4>
+<h4>🧑 윤일권</h4>
+<hr>
+</br>
+
+- [유튜브 데모영상 링크](https://www.youtube.com/watch?v=XuifGepl7mQ, "유튜브 데모영상 링크")
+<hr>
+</br>
+
