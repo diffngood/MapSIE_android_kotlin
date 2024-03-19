@@ -36,9 +36,10 @@
 <hr>
 </br>
 
+
 ![슬라이드1](https://github.com/diffngood/MapSIE_android_kotlin/assets/103239379/04130f05-607d-401a-ae76-f8852b87f339)
 
-![슬라이드2](https://github.com/diffngood/MapSIE_android_kotlin/assets/103239379/23f9a5f5-d928-4556-aa8d-af7c507be9aa)
+![슬라이드2](https://github.com/diffngood/MapSIE_android_kotlin/assets/103239379/7f218231-af2b-42c7-b1b3-c01e7e79e9f1)
 
 ![슬라이드3](https://github.com/diffngood/MapSIE_android_kotlin/assets/103239379/314066d5-0d97-435c-9d82-356bde04c079)
 
